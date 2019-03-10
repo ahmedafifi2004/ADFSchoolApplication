@@ -141,4 +141,18 @@
     <version>12.2.1-3-0</version>
     <relativePath></relativePath>
   </parent>
+  <repositories>
+    <repository>
+      <name>OracleMaven</name>
+      <id>maven.oracle.com</id>
+      <url>https://maven.oracle.com</url>
+    </repository>
+  </repositories>
+  <pluginRepositories>
+    <pluginRepository>
+      <name>OracleMaven</name>
+      <id>maven.oracle.com</id>
+      <url>https://maven.oracle.com</url>
+    </pluginRepository>
+  </pluginRepositories>
 </project>
